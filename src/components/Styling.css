@@ -1,0 +1,68 @@
+.text_ar{
+
+    margin-left: 325px;
+    padding-right: 100px;
+ }
+ 
+ .text{
+     
+     
+     margin-left:320px;
+ }
+ 
+ .pi_button {
+     margin-left:320px;
+     
+ }
+ 
+ .pi_heading{
+     margin-left:320px;
+     font-size: 20px;
+ }
+ 
+ .pi_input{
+    background-color: #e6f9ff;
+ }
+ 
+  .we_input{
+ 
+     margin-left: 320px;
+     margin-right: 100px;
+ }
+  .we_button{
+    row-gap: 20%;
+ 
+ }
+ 
+ .we_dropdown{
+     margin-left: 50px;
+ 
+ }
+ 
+ .we_heading{
+     font-size:20px;
+ }
+ 
+ .ed_heading{
+     font-size:20px;
+ }
+ 
+ .skills_heading{
+     font-size:20px;
+ }
+
+ .pi_content{
+     margin-left: 320px;
+
+ }
+
+ .pi_details{
+     margin-left:10px;
+ }
+
+ .head-title{
+     
+     text-align: center;
+
+
+ }

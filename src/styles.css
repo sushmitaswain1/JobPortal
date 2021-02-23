@@ -1,0 +1,20 @@
+.job-post-image {
+    height: 200px;
+    width: 300px;
+  }
+  .company-banner{
+      height: 200px;
+      width : 600px;
+  }
+  .apply{
+      background-color: blue;
+      color: white;
+  }
+  .notinterested{
+    background-color: red;
+    color: white;
+  }
+  .para{
+      width: 250px;
+      height: 150px;
+  }

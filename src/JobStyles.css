@@ -1,0 +1,96 @@
+
+.background {
+    position: absolute;
+    object-fit: cover;
+    object-position: center center;
+    width: 100%;
+    height: 100%;
+}
+ .content{
+     height: 50px;
+     width: 600px; 
+     
+
+ }
+
+ .place{
+     font-weight: bold;
+ }
+
+
+ .title{
+      font-size: 30px;
+     font-weight: bold;
+
+
+ }
+ .job-list {
+     margin-bottom:200px;
+     margin-top: 100px;
+ }
+
+ .salary{
+     margin-top: 10px;
+    
+ }
+    
+  #parent_div_1, #parent_div_2 {
+
+    width: 400px;
+    height: 100px;
+   
+    margin-right: 10px;
+    float: left;
+   
+    margin-left: 20px;
+    margin-top: 40px;
+  
+}
+
+  .load {
+      width: 100px;
+      height: 100px;
+ }
+ 
+
+
+.placee{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.sal{
+
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.spinner{
+
+    margin-top:250px;
+}
+
+.job-content{
+    margin-left:50px;
+   
+}
+
+.job-select{
+
+    margin-left:40px;
+}
+.mid_head{
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+
+.buttonn{
+    float: right;
+    margin-right:10px;
+    margin-top:30px;
+    
+
+}
